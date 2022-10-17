@@ -1,0 +1,3 @@
+Mov_uno    KEYWORD2
+Mov_dos    KEYWORD2
+Mov_medio   KEYWORD2
