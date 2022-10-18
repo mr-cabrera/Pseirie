@@ -26,7 +26,7 @@ compile with the command: gcc demo_tx.c rs232.c -Wall -Wextra -o2 -o test_tx
 int main()
 {
   int i=0,
-      cport_nr=0,        /* /dev/ttyS0 (COM1 on windows) */
+      cport_nr=24,        /* /dev/ttyS0 (COM1 on windows) */
       bdrate=9600;       /* 9600 baud */
 
   char mode[]={'8','N','1',0},
